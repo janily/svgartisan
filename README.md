@@ -4,7 +4,7 @@ SvgArtisan是一款Photoshop插件
 
 ps插件的安装方法可以去网上搜索下教程，这里就不再阐述了。
 
-###插件暂时只支持Photoshop cc
+### 插件暂时只支持Photoshop cc
 
 **因为插件是根据photoshop中形状图层的数据信息来生成SVG的，所以只支持导出图层是矢量形状设计的为SVG格式的图片**
 
